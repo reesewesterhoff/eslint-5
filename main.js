@@ -24,7 +24,6 @@ testNoUselessCatch();
 
 function testNoWith(/* point */) {
   // Uncomment to test 'no-with'
-
   // const x = 2;
   // const y = 3;
 
